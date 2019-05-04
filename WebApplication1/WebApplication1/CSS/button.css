@@ -1,0 +1,15 @@
+.button {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    width: 65px;
+    height: 23px;
+}
+
+    .button:hover {
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        width: 65px;
+        height: 23px;
+    }
